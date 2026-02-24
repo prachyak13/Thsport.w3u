@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1668" tvg-name="UK: VIP SKY SPORTS F1" group-title="Category 12",UK: VIP SKY SPORTS F1
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1668.ts
+#EXTINF:-1 tvg-id="1669" tvg-name="UK: VIP SKY SPORTS GOLF" group-title="Category 12",UK: VIP SKY SPORTS GOLF
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1669.ts
+#EXTINF:-1 tvg-id="1670" tvg-name="UK: VIP SKY SPORTS MIX" group-title="Category 12",UK: VIP SKY SPORTS MIX
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1670.ts
+#EXTINF:-1 tvg-id="1671" tvg-name="UK: VIP SKY SPORTS FOOTBALL" group-title="Category 12",UK: VIP SKY SPORTS FOOTBALL
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1671.ts
+#EXTINF:-1 tvg-id="1672" tvg-name="UK: VIP SKY SPORTS PREMIER LEAGUE" group-title="Category 12",UK: VIP SKY SPORTS PREMIER LEAGUE
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1672.ts
+#EXTINF:-1 tvg-id="1673" tvg-name="UK: VIP SKY SPORTS CRICKET" group-title="Category 12",UK: VIP SKY SPORTS CRICKET
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1673.ts
+#EXTINF:-1 tvg-id="1674" tvg-name="UK: VIP SKY SPORTS ARENA" group-title="Category 12",UK: VIP SKY SPORTS ARENA
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1674.ts
+#EXTINF:-1 tvg-id="1676" tvg-name="UK: VIP SKY SPORTS RACING" group-title="Category 12",UK: VIP SKY SPORTS RACING
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1676.ts
+#EXTINF:-1 tvg-id="1678" tvg-name="UK: VIP Sky Sports NFL" group-title="Category 12",UK: VIP Sky Sports NFL
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1678.ts
+#EXTINF:-1 tvg-id="1683" tvg-name="UK: VIP EUROSPORT 1" group-title="Category 12",UK: VIP EUROSPORT 1
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1683.ts
+#EXTINF:-1 tvg-id="1684" tvg-name="UK: VIP EUROSPORT 2" group-title="Category 12",UK: VIP EUROSPORT 2
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1684.ts
+#EXTINF:-1 tvg-id="1685" tvg-name="UK: VIP EIR SPORT 1" group-title="Category 12",UK: VIP EIR SPORT 1
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1685.ts
+#EXTINF:-1 tvg-id="1686" tvg-name="UK: VIP EIR SPORT 2" group-title="Category 12",UK: VIP EIR SPORT 2
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1686.ts
+#EXTINF:-1 tvg-id="1687" tvg-name="UK: VIP TNT SPORT 1" group-title="Category 12",UK: VIP TNT SPORT 1
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1687.ts
+#EXTINF:-1 tvg-id="1688" tvg-name="UK: VIP TNT SPORT 2" group-title="Category 12",UK: VIP TNT SPORT 2
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1688.ts
+#EXTINF:-1 tvg-id="1689" tvg-name="UK: VIP TNT SPORT 3" group-title="Category 12",UK: VIP TNT SPORT 3
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1689.ts
+#EXTINF:-1 tvg-id="1694" tvg-name="UK: VIP PREMIERE SPORTS 1" group-title="Category 12",UK: VIP PREMIERE SPORTS 1
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1694.ts
+#EXTINF:-1 tvg-id="1712" tvg-name="UK: VIP RACING" group-title="Category 12",UK: VIP RACING
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1712.ts
+#EXTINF:-1 tvg-id="1716" tvg-name="UK: VIP CARTOON NETWORK" group-title="Category 12",UK: VIP CARTOON NETWORK
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1716.ts
+#EXTINF:-1 tvg-id="1723" tvg-name="UK: VIP MTV BASE" group-title="Category 12",UK: VIP MTV BASE
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1723.ts
+#EXTINF:-1 tvg-id="1724" tvg-name="UK: VIP MTV CLASSIC" group-title="Category 12",UK: VIP MTV CLASSIC
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1724.ts
+#EXTINF:-1 tvg-id="1727" tvg-name="UK: VIP MTV ROCKS" group-title="Category 12",UK: VIP MTV ROCKS
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1727.ts
+#EXTINF:-1 tvg-id="1728" tvg-name="UK: VIP RTE ONE" group-title="Category 12",UK: VIP RTE ONE
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1728.ts
+#EXTINF:-1 tvg-id="1730" tvg-name="UK: VIP SAB TV" group-title="Category 12",UK: VIP SAB TV
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1730.ts
+#EXTINF:-1 tvg-id="1734" tvg-name="UK: VIP STV" group-title="Category 12",UK: VIP STV
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1734.ts
+#EXTINF:-1 tvg-id="1738" tvg-name="UK: VIP UTV IRELAND" group-title="Category 12",UK: VIP UTV IRELAND
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1738.ts
+#EXTINF:-1 tvg-id="1742" tvg-name="UK: VIP VH1" group-title="Category 12",UK: VIP VH1
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1742.ts
+#EXTINF:-1 tvg-id="1743" tvg-name="UK: VIP MTV LIVE" group-title="Category 12",UK: VIP MTV LIVE
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1743.ts
+#EXTINF:-1 tvg-id="1750" tvg-name="UK: VIP VIRGIN MEDIA 3" group-title="Category 12",UK: VIP VIRGIN MEDIA 3
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1750.ts
+#EXTINF:-1 tvg-id="1751" tvg-name="UK: VIP BBC SCOTLAND" group-title="Category 12",UK: VIP BBC SCOTLAND
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1751.ts
+#EXTINF:-1 tvg-id="1752" tvg-name="UK: VIP 4MUSIC" group-title="Category 12",UK: VIP 4MUSIC
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1752.ts
+#EXTINF:-1 tvg-id="1757" tvg-name="UK: VIP DISCOVERY CHANNEL" group-title="Category 12",UK: VIP DISCOVERY CHANNEL
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1757.ts
+#EXTINF:-1 tvg-id="1759" tvg-name="UK: VIP DISCOVERY SCIENCE" group-title="Category 12",UK: VIP DISCOVERY SCIENCE
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1759.ts
+#EXTINF:-1 tvg-id="1764" tvg-name="UK: VIP INVESTIGATION DISCOVERY" group-title="Category 12",UK: VIP INVESTIGATION DISCOVERY
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1764.ts
+#EXTINF:-1 tvg-id="1765" tvg-name="UK: VIP MAGIC" group-title="Category 12",UK: VIP MAGIC
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1765.ts
+#EXTINF:-1 tvg-id="1766" tvg-name="UK: VIP NAT GEO WILD" group-title="Category 12",UK: VIP NAT GEO WILD
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1766.ts
+#EXTINF:-1 tvg-id="1768" tvg-name="UK: VIP YESTERDAY" group-title="Category 12",UK: VIP YESTERDAY
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1768.ts
+#EXTINF:-1 tvg-id="1770" tvg-name="UK: VIP DAVE" group-title="Category 12",UK: VIP DAVE
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1770.ts
+#EXTINF:-1 tvg-id="1773" tvg-name="UK: VIP ITV" group-title="Category 12",UK: VIP ITV
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1773.ts
+#EXTINF:-1 tvg-id="1778" tvg-name="UK: VIP TLC" group-title="Category 12",UK: VIP TLC
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1778.ts
+#EXTINF:-1 tvg-id="1780" tvg-name="UK: VIP CBS DRAMA" group-title="Category 12",UK: VIP CBS DRAMA
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1780.ts
+#EXTINF:-1 tvg-id="1781" tvg-name="UK: VIP PARAMOUNT" group-title="Category 12",UK: VIP PARAMOUNT
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1781.ts
+#EXTINF:-1 tvg-id="1783" tvg-name="UK: VIP QVC EXTRA" group-title="Category 12",UK: VIP QVC EXTRA
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1783.ts
+#EXTINF:-1 tvg-id="1786" tvg-name="UK: VIP ITVBE" group-title="Category 12",UK: VIP ITVBE
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1786.ts
+#EXTINF:-1 tvg-id="1788" tvg-name="UK: VIP DMAX" group-title="Category 12",UK: VIP DMAX
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1788.ts
+#EXTINF:-1 tvg-id="1790" tvg-name="UK: VIP PICK" group-title="Category 12",UK: VIP PICK
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1790.ts
+#EXTINF:-1 tvg-id="1793" tvg-name="UK: VIP S4C" group-title="Category 12",UK: VIP S4C
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1793.ts
+#EXTINF:-1 tvg-id="1794" tvg-name="UK: VIP 4SEVEN" group-title="Category 12",UK: VIP 4SEVEN
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1794.ts
+#EXTINF:-1 tvg-id="1796" tvg-name="UK: VIP 5USA" group-title="Category 12",UK: VIP 5USA
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1796.ts
+#EXTINF:-1 tvg-id="1797" tvg-name="UK: VIP AMC" group-title="Category 12",UK: VIP AMC
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1797.ts
+#EXTINF:-1 tvg-id="1798" tvg-name="UK: VIP BOX NATION" group-title="Category 12",UK: VIP BOX NATION
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1798.ts
+#EXTINF:-1 tvg-id="1799" tvg-name="UK: VIP CBS ACTION" group-title="Category 12",UK: VIP CBS ACTION
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1799.ts
+#EXTINF:-1 tvg-id="1801" tvg-name="UK: VIP CBS REALITY" group-title="Category 12",UK: VIP CBS REALITY
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1801.ts
+#EXTINF:-1 tvg-id="1804" tvg-name="UK: VIP CHANNEL 5" group-title="Category 12",UK: VIP CHANNEL 5
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1804.ts
+#EXTINF:-1 tvg-id="1808" tvg-name="UK: VIP DISNEY XD" group-title="Category 12",UK: VIP DISNEY XD
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1808.ts
+#EXTINF:-1 tvg-id="1812" tvg-name="UK: VIP GOOD FOOD" group-title="Category 12",UK: VIP GOOD FOOD
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1812.ts
+#EXTINF:-1 tvg-id="1817" tvg-name="UK: VIP NICK JR TOO" group-title="Category 12",UK: VIP NICK JR TOO
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1817.ts
+#EXTINF:-1 tvg-id="1825" tvg-name="UK: VIP COLORS EUROPE" group-title="Category 12",UK: VIP COLORS EUROPE
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1825.ts
+#EXTINF:-1 tvg-id="1827" tvg-name="UK: VIP POP" group-title="Category 12",UK: VIP POP
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1827.ts
+#EXTINF:-1 tvg-id="1830" tvg-name="UK: VIP CBEEBIES" group-title="Category 12",UK: VIP CBEEBIES
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1830.ts
+#EXTINF:-1 tvg-id="1832" tvg-name="UK: VIP BOOMERANG" group-title="Category 12",UK: VIP BOOMERANG
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1832.ts
+#EXTINF:-1 tvg-id="1833" tvg-name="UK: VIP CITV" group-title="Category 12",UK: VIP CITV
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1833.ts
+#EXTINF:-1 tvg-id="1834" tvg-name="UK: VIP CBBC" group-title="Category 12",UK: VIP CBBC
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1834.ts
+#EXTINF:-1 tvg-id="1835" tvg-name="UK: VIP FILM 4" group-title="Category 12",UK: VIP FILM 4
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1835.ts
+#EXTINF:-1 tvg-id="1838" tvg-name="UK: VIP SKY CINEMA FAMILY" group-title="Category 12",UK: VIP SKY CINEMA FAMILY
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1838.ts
+#EXTINF:-1 tvg-id="1839" tvg-name="UK: VIP SKY CINEMA PREMIERE" group-title="Category 12",UK: VIP SKY CINEMA PREMIERE
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1839.ts
+#EXTINF:-1 tvg-id="1840" tvg-name="UK: VIP SKY CINEMA SCI-FI" group-title="Category 12",UK: VIP SKY CINEMA SCI-FI
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1840.ts
+#EXTINF:-1 tvg-id="1841" tvg-name="UK: VIP SKY CINEMA SELECT" group-title="Category 12",UK: VIP SKY CINEMA SELECT
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1841.ts
+#EXTINF:-1 tvg-id="1842" tvg-name="UK: VIP SKY CINEMA SHOWCASE" group-title="Category 12",UK: VIP SKY CINEMA SHOWCASE
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1842.ts
+#EXTINF:-1 tvg-id="1844" tvg-name="UK: VIP SKY CINEMA DISNEY" group-title="Category 12",UK: VIP SKY CINEMA DISNEY
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1844.ts
+#EXTINF:-1 tvg-id="1846" tvg-name="UK: VIP SKY CINEMA HITS" group-title="Category 12",UK: VIP SKY CINEMA HITS
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1846.ts
+#EXTINF:-1 tvg-id="1848" tvg-name="UK: VIP SKY CINEMA ANIMATION" group-title="Category 12",UK: VIP SKY CINEMA ANIMATION
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1848.ts
+#EXTINF:-1 tvg-id="1853" tvg-name="UK: VIP TCM MOVIES" group-title="Category 12",UK: VIP TCM MOVIES
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1853.ts
+#EXTINF:-1 tvg-id="1860" tvg-name="UK: VIP BBC TWO" group-title="Category 12",UK: VIP BBC TWO
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1860.ts
+#EXTINF:-1 tvg-id="1864" tvg-name="UK: VIP BBC NEWS" group-title="Category 12",UK: VIP BBC NEWS
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1864.ts
+#EXTINF:-1 tvg-id="1866" tvg-name="UK: VIP BBC ENTERTAINMENT" group-title="Category 12",UK: VIP BBC ENTERTAINMENT
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1866.ts
+#EXTINF:-1 tvg-id="1868" tvg-name="UK: VIP BBC TWO NORTHERN IRELAND" group-title="Category 12",UK: VIP BBC TWO NORTHERN IRELAND
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1868.ts
+#EXTINF:-1 tvg-id="1871" tvg-name="UK: VIP CNN" group-title="Category 12",UK: VIP CNN
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1871.ts
+#EXTINF:-1 tvg-id="1872" tvg-name="UK: VIP FOX" group-title="Category 12",UK: VIP FOX
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1872.ts
+#EXTINF:-1 tvg-id="1873" tvg-name="UK: VIP FOX NEWS" group-title="Category 12",UK: VIP FOX NEWS
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1873.ts
+#EXTINF:-1 tvg-id="1877" tvg-name="UK: VIP SKY 1" group-title="Category 12",UK: VIP SKY 1
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1877.ts
+#EXTINF:-1 tvg-id="1878" tvg-name="UK: VIP SKY 2" group-title="Category 12",UK: VIP SKY 2
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1878.ts
+#EXTINF:-1 tvg-id="1879" tvg-name="UK: VIP SKY CRIME" group-title="Category 12",UK: VIP SKY CRIME
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1879.ts
+#EXTINF:-1 tvg-id="1881" tvg-name="UK: VIP SKY NATURE" group-title="Category 12",UK: VIP SKY NATURE
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1881.ts
+#EXTINF:-1 tvg-id="1882" tvg-name="UK: VIP SKY ARTS" group-title="Category 12",UK: VIP SKY ARTS
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1882.ts
+#EXTINF:-1 tvg-id="1883" tvg-name="UK: VIP SKY WITNESS" group-title="Category 12",UK: VIP SKY WITNESS
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1883.ts
+#EXTINF:-1 tvg-id="1884" tvg-name="UK: VIP SKY ATLANTIC" group-title="Category 12",UK: VIP SKY ATLANTIC
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1884.ts
+#EXTINF:-1 tvg-id="1885" tvg-name="UK: VIP SKY NEWS" group-title="Category 12",UK: VIP SKY NEWS
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1885.ts
+#EXTINF:-1 tvg-id="1889" tvg-name="UK: VIP MUTV" group-title="Category 12",UK: VIP MUTV
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1889.ts
+#EXTINF:-1 tvg-id="1891" tvg-name="UK: VIP ALIBI" group-title="Category 12",UK: VIP ALIBI
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1891.ts
+#EXTINF:-1 tvg-id="1896" tvg-name="UK: VIP QUEST" group-title="Category 12",UK: VIP QUEST
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1896.ts
+#EXTINF:-1 tvg-id="1899" tvg-name="UK: VIP RTE NEWS" group-title="Category 12",UK: VIP RTE NEWS
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1899.ts
+#EXTINF:-1 tvg-id="1901" tvg-name="UK: VIP COLORS" group-title="Category 12",UK: VIP COLORS
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1901.ts
+#EXTINF:-1 tvg-id="1911" tvg-name="UK: VIP NOW 90S" group-title="Category 12",UK: VIP NOW 90S
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1911.ts
+#EXTINF:-1 tvg-id="1912" tvg-name="UK: VIP NOW 80S" group-title="Category 12",UK: VIP NOW 80S
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1912.ts
+#EXTINF:-1 tvg-id="1913" tvg-name="UK: VIP NOW 70S" group-title="Category 12",UK: VIP NOW 70S
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1913.ts
+#EXTINF:-1 tvg-id="1915" tvg-name="UK: VIP ARY DIGITAL" group-title="Category 12",UK: VIP ARY DIGITAL
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1915.ts
+#EXTINF:-1 tvg-id="1916" tvg-name="UK: VIP B4U MUSIC" group-title="Category 12",UK: VIP B4U MUSIC
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1916.ts
+#EXTINF:-1 tvg-id="1925" tvg-name="UK: VIP MTV MUSIC" group-title="Category 12",UK: VIP MTV MUSIC
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1925.ts
+#EXTINF:-1 tvg-id="1926" tvg-name="UK: VIP NAT GEO" group-title="Category 12",UK: VIP NAT GEO
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1926.ts
+#EXTINF:-1 tvg-id="1927" tvg-name="UK: VIP NICKELODEON" group-title="Category 12",UK: VIP NICKELODEON
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1927.ts
+#EXTINF:-1 tvg-id="1930" tvg-name="UK: VIP SONY MAX 2" group-title="Category 12",UK: VIP SONY MAX 2
+http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1930.ts
