@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://i511hq.xyz:80/live/8NPRQ7Z/SPFDBMX/324806.m3u8
+#http://i511hq.xyz:80/live/8NPRQ7Z/SPFDBMX/324806.m3u8
+http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=813034&extension=m3u8
