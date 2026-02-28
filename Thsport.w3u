@@ -4,15 +4,14 @@
   "author": "update 22/02/26",
   "stations": [
     {
-      "name": "monomax1",
-      "image": "https://i-pic.info/i/raw/J9pc1742730",
-                    "url": "https://dookeela4.live/live-tv/monomax1",
-                    "referer": "https://dookeela4.live/
-                    "info": "server dookeela",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-                    "playInNatPlayer": "true",
-                    "desktop": "true",
-      "playInNatPlayer": "true"
+  "name": "monomax1",
+  "image": "https://i-pic.info/i/raw/J9pc1742730",
+  "url": "https://dookeela4.live/live-tv/monomax1",
+  "referer": "https://dookeela4.live/",
+  "info": "server dookeela",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+  "playInNatPlayer": "true",
+  "desktop": "true"
     },
     {
       "name": "monomax2",
