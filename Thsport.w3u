@@ -22,6 +22,15 @@
       "playInNatPlayer": true
     },
     {
+      "name": "monomax2 สำรอง",
+      "image": "https://i-pic.info/i/raw/J9pc1742730",
+      "url": "https://dookeela4.live/live-tv/monomax2",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
+    },
+    {
       "name": "monomax3",
       "image": "https://i-pic.info/i/raw/J9pc1742730",
       "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX3.m3u8",
@@ -55,6 +64,15 @@
       "referer": "https://github.com/",
       "userAgent": "Mozilla/5.0",
       "info": "Server github",
+      "playInNatPlayer": true
+},
+    {
+      "name": "monomax6 สำรอง",
+      "image": "https://i-pic.info/i/raw/J9pc1742730",
+      "url": "https://dookeela4.live/football/match/561339",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
       "playInNatPlayer": true
     },
     {
