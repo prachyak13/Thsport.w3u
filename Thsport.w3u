@@ -6,9 +6,12 @@
     {
       "name": "monomax1",
       "image": "https://i-pic.info/i/raw/J9pc1742730",
-      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX1.m3u8",
-      "referer": "https://github.com/",
-      "info": "Server github",
+                    "url": "https://dookeela4.live/live-tv/monomax1",
+                    "referer": "https://dookeela4.live/
+                    "info": "server dookeela",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+                    "playInNatPlayer": "true",
+                    "desktop": "true",
       "playInNatPlayer": "true"
     },
     {
