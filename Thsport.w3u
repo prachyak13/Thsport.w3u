@@ -1,291 +1,143 @@
 {
   "name": "Sport Thai",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGqn7Y1FaM7JcmAobSk-8dLTIsiIoE9xcIOKNjh6ksg&s=10",
-  "author": "update 22/02/26",
+  "author": "update 28/02/26",
   "stations": [
     {
-  "name": "monomax1",
-  "image": "https://i-pic.info/i/raw/J9pc1742730",
-  "url": "https://dookeela4.live/live-tv/monomax1",
-  "referer": "https://dookeela4.live/",
-  "info": "server dookeela",
-  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-  "playInNatPlayer": "true",
-  "desktop": "true"
+      "name": "monomax1",
+      "image": "https://i-pic.info/i/raw/J9pc1742730",
+      "url": "https://dookeela4.live/live-tv/monomax1",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
     },
     {
       "name": "monomax2",
-  "image": "https://i-pic.info/i/raw/J9pc1742730",
-  "url": "http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1672.m3u8",
-  "referer": "https://github.com/",
-  "info": "Server github"
-
+      "image": "https://i-pic.info/i/raw/J9pc1742730",
+      "url": "http://ns1.titv.club:8080/live/VIP013791744272390384/0c414a9db73e/1672.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
     },
     {
       "name": "monomax3",
       "image": "https://i-pic.info/i/raw/J9pc1742730",
       "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX3.m3u8",
       "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
       "info": "Server github",
-      "playInNatPlayer": "true"
+      "playInNatPlayer": true
     },
     {
       "name": "monomax4",
       "image": "https://i-pic.info/i/raw/J9pc1742730",
       "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX4.m3u8",
       "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
       "info": "Server github",
-      "playInNatPlayer": "true"
+      "playInNatPlayer": true
     },
     {
       "name": "monomax5",
       "image": "https://i-pic.info/i/raw/J9pc1742730",
       "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX5.m3u8",
       "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
       "info": "Server github",
-      "playInNatPlayer": "true"
+      "playInNatPlayer": true
     },
     {
       "name": "monomax6",
       "image": "https://i-pic.info/i/raw/J9pc1742730",
       "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX6.m3u8",
       "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
       "info": "Server github",
-      "playInNatPlayer": "true"
+      "playInNatPlayer": true
     },
     {
       "name": "monomax7",
       "image": "https://i-pic.info/i/raw/J9pc1742730",
       "url": "https://raw.githubusercontent.com/prachyak13/File-Other.w3u/refs/heads/main/222",
       "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
       "info": "Server github",
-      "playInNatPlayer": "true"
-
-},
-{
-  "name": "hubpremier UHD2",
-  "image": "https://i.postimg.cc/x12jpfVF/Hub-Premier-2-UHD.png",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier%20UHD2",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubpremier1",
-  "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279488754%27&EntityType=%27Item%27&EntityId=%27567123%27&Width=1920&Height=1080",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier1",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubpremier2",
-  "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624578%27&EntityType=%27Item%27&EntityId=%27572415%27&Width=1920&Height=1080",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier2",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubpremier3",
-  "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624617%27&EntityType=%27Item%27&EntityId=%27572419%27&Width=1920&Height=1080",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier3",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubpremier4",
-  "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624656%27&EntityType=%27Item%27&EntityId=%27572423%27&Width=1920&Height=1080",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier4",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubpremier5",
-  "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624630%27&EntityType=%27Item%27&EntityId=%27572420%27&Width=1920&Height=1080",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier5",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubpremier6",
-  "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624633%27&EntityType=%27Item%27&EntityId=%27572421%27&Width=1920&Height=1080",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier6",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubpremier7",
-  "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624605%27&EntityType=%27Item%27&EntityId=%27572417%27&Width=1920&Height=1080",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier7",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubpremier8",
-  "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624577%27&EntityType=%27Item%27&EntityId=%27572414%27&Width=1920&Height=1080",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier8",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubsport1",
-  "image": "https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports1",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubsport2",
-  "image": "https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports2",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubsport3",
-  "image": "https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports3",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubsport4",
-  "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624647%27&EntityType=%27Item%27&EntityId=%27572422%27&Width=1920&Height=1080",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports4",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubsport5",
-  "image": "https://epg.pw/media/images/epg/2025/02/12/20250212042641983979_50.png",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports5",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-},
-{
-  "name": "hubsport7",
-  "image": "https://epg.pw/media/images/epg/2025/09/09/20250909042505032176_56.png",
-  "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsport7",
-  "referer": "https://github.com/",
-  "info": "Server github",
-  "playInNatPlayer": "true"
-
+      "playInNatPlayer": true
     },
+    {
+      "name": "hubpremier UHD2",
+      "image": "https://i.postimg.cc/x12jpfVF/Hub-Premier-2-UHD.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier%20UHD2",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "hubsport1",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports1",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "hubsport2",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports2",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "hubsport3",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports3",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+    },
+
     {
       "name": "truebein1",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",
       "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport1.m3u8",
       "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
       "info": "Server github",
-      "playInNatPlayer": "true"
+      "playInNatPlayer": true
     },
     {
       "name": "truebein2",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",
       "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport2.m3u8",
       "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
       "info": "Server github",
-      "playInNatPlayer": "true"
+      "playInNatPlayer": true
     },
     {
       "name": "truebein3",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",
       "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport3.m3u8",
       "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
       "info": "Server github",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "truesport1",
-      "image": "https://rentapi.blackboxsys.net/images/png/hd-tsport1.png",
-      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truesport1.m3u8",
-      "referer": "https://github.com/",
-      "info": "Server github",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "truesport2",
-      "image": "https://rentapi.blackboxsys.net/images/png/hd-tsport2.png",
-      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truesport2.m3u8",
-      "referer": "https://github.com/",
-      "info": "Server github",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "truesport3",
-      "image": "https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",
-      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truesport3.m3u8",
-      "referer": "https://github.com/",
-      "info": "Server github",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "truesport5",
-      "image": "https://rentapi.blackboxsys.net/images/png/sd-tsport5.png",
-      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truesport5.m3u8",
-      "referer": "https://github.com/",
-      "info": "Server github",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "truesport7",
-      "image": "https://rentapi.blackboxsys.net/images/png/sd-tsport7.png",
-      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truesport7.m3u8",
-      "referer": "https://github.com/",
-      "info": "Server github",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "truepremierfootball3",
-      "image": "https://dookeela2.live/uploads/1664499681.png",
-      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truepremierfootball3.m3u8",
-      "referer": "https://github.com/",
-      "info": "Server github",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "trueSporTv1",
-      "image": "https://rentapi.blackboxsys.net/images/png/hd-spotv.png",
-      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truespotv1.m3u8",
-      "referer": "https://github.com/",
-      "info": "Server github",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "trueSporTv2",
-      "image": "https://rentapi.blackboxsys.net/images/png/hd-spotv2.png",
-      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truespotv2.m3u8",
-      "referer": "https://github.com/",
-      "info": "Server github",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "trueTENNIS",
-      "image": "https://i-pic.info/i/raw/Ua1I1742731",
-      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truetennis.m3u8",
-      "referer": "https://github.com/",
-      "info": "Server github",
-      "playInNatPlayer": "true"
+      "playInNatPlayer": true
     },
     {
       "name": "NBA",
       "image": "https://rentapi.blackboxsys.net/images/png/us-nba.png",
       "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/nba.m3u8",
       "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
       "info": "Server github",
-      "playInNatPlayer": "true"
+      "playInNatPlayer": true
     }
   ]
 }
