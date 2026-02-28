@@ -110,6 +110,78 @@
       "userAgent": "Mozilla/5.0",
       "info": "Server github",
       "playInNatPlayer": true
+},
+    {
+      "name": "HUB PREMIER 1 ᵁᴴᴰ",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier1",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+},
+    {
+      "name": "HUB PREMIER 2 ᵁᴴᴰ",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier2",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+},
+    {
+      "name": "HUB PREMIER 3 ᵁᴴᴰ",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier3",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+},
+    {
+      "name": "HUB PREMIER 4 ᵁᴴᴰ",
+      "image": "https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier4",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+},
+    {
+      "name": "HUB PREMIER 5 ᵁᴴᴰ",
+      "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624630%27&EntityType=%27Item%27&EntityId=%27572420%27&Width=1920&Height=1080",
+      "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier5",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+},
+    {
+      "name": "HUB PREMIER 6 ᵁᴴᴰ",
+      "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624633%27&EntityType=%27Item%27&EntityId=%27572421%27&Width=1920&Height=1080",
+      "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier6",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+},
+    {
+      "name": "HUB PREMIER 7 ᵁᴴᴰ",
+      "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624605%27&EntityType=%27Item%27&EntityId=%27572417%27&Width=1920&Height=1080",
+      "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier7",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+},
+    {
+      "name": "HUB PREMIER 8 ᵁᴴᴰ",
+      "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624577%27&EntityType=%27Item%27&EntityId=%27572414%27&Width=1920&Height=1080",
+      "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
     },
     {
       "name": "hubsport1",
