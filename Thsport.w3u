@@ -83,6 +83,24 @@
       "userAgent": "Mozilla/5.0",
       "info": "Server github",
       "playInNatPlayer": true
+},
+    {
+      "name": "True Premier Football 3",
+      "image": "https://dookeela4.live/uploads/1664499681.png",
+      "url": "https://dookeela4.live/live-tv/tpf3",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
+},
+    {
+      "name": "True Premier Football 4",
+      "image": "https://dookeela4.live/uploads/1664499692.png",
+      "url": "https://dookeela4.live/live-tv/tpf4",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
     },
     {
       "name": "hubpremier UHD2",
