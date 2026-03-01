@@ -22,6 +22,15 @@
       "playInNatPlayer": true
 },
     {
+      "name": "Monomax_PL 234 HD",
+      "image": "xxx",
+      "url": "https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8?_t=1772389904915",
+      "referer": "https://www.livedoomovies.com:4431/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server 88-hd",
+      "playInNatPlayer": true
+},
+    {
       "name": "Monomax_PL 2 HD 222",
       "image": "xxx",
       "url": "https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8",
