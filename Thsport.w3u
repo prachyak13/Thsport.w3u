@@ -1,39 +1,603 @@
-{
-  "name": "Sport Thai",
+{ 
+  "name": "SPORT THAI",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGqn7Y1FaM7JcmAobSk-8dLTIsiIoE9xcIOKNjh6ksg&s=10",
   "author": "update 03/03/26",
-  "stations": [
+  "groups": [
     {
-      "name": "monomax1",
-      "image": "https://i-pic.info/i/raw/J9pc1742730",
-      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX1.m3u8",
-      "referer": "https://github.com/",
-      "userAgent": "Mozilla/5.0",
-      "info": "Server github",
-      "playInNatPlayer": true
+      "name": "MONOMAX",
+      "image": "xxx",
+      "author": "xxx",
+      "stations": [
+        {
+          "name": "monomax1",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX1.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax1 สำรอง",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://dookeela4.live/live-tv/monomax1",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax1",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/Test1",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "88-hd test2",
+          "image": "xxx",
+          "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+          "referer": "https://www.88-hd.com/?r=live_tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+          "info": "server 88-hd",
+          "playInNatPlayer": true,
+          "desktop": true
+        },
+        {
+          "name": "88-hd test3",
+          "image": "xxx",
+          "url": "https://www.88-hd.com/?r=tv_view&id=20",
+          "referer": "https://www.88-hd.com/?r=live_tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+          "info": "server 88-hd",
+          "playInNatPlayer": true,
+          "desktop": true
+        },
+        {
+          "name": "88-hd test4",
+          "image": "xxx",
+          "url": "https://www.88-hd.com/?r=tv_view&id=239",
+          "referer": "https://www.88-hd.com/?r=live_tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+          "info": "server 88-hd",
+          "playInNatPlayer": true,
+          "desktop": true
+        },
+        {
+          "name": "monomax2",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX2.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax2 สำรอง",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://dookeela4.live/live-tv/monomax-2",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax3",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX3.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax4",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX4.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax5",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX5.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax6",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/MONOMAX6.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax6 สำรอง",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://dookeela4.live/football/match/561339",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "monomax7",
+          "image": "https://i-pic.info/i/raw/J9pc1742730",
+          "url": "https://raw.githubusercontent.com/prachyak13/File-Other.w3u/refs/heads/main/222",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        }
+      ]
     },
     {
-      "name": "monomax1 สำรอง",
-      "image": "https://i-pic.info/i/raw/J9pc1742730",
-      "url": "https://dookeela4.live/live-tv/monomax1",
-      "referer": "https://dookeela4.live/",
-      "userAgent": "Mozilla/5.0",
-      "info": "server dookeela",
-      "playInNatPlayer": true
-},
-    {
-      "name": "monomax1",
-      "image": "https://i-pic.info/i/raw/J9pc1742730",
-      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/Test1",
-      "referer": "https://github.com/",
-      "userAgent": "Mozilla/5.0",
-      "info": "Server github",
-      "playInNatPlayer": true
-},
-    {
-      "name": "88-hd test2",
+      "name": "TRUE SPORT [TH]",
       "image": "xxx",
-      "url": "https://www.88-hd.com/?r=tv_view&id=2224",
+      "author": "xxx",
+      "stations": [
+        {
+          "name": "truesports 1 สำรอง",
+          "image": "https://dookeela4.live/uploads/1664802455.png",
+          "url": "https://dookeela4.live/live-tv/tsp1",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truesports 1 สำรอง",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport01.jpg",
+          "url": "https://www.88-hd.com/?r=tv_view&id=32",
+          "referer": "https://www.88-hd.com/?r=live_tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+          "info": "server 88-hd",
+          "playInNatPlayer": true,
+          "desktop": true
+        },
+        {
+          "name": "truesports 2 สำรอง",
+          "image": "https://dookeela4.live/uploads/1664499966.png",
+          "url": "https://dookeela4.live/live-tv/tsp2",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truesports 2 สำรอง",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport2.jpg",
+          "url": "https://www.88-hd.com/?r=tv_view&id=33",
+          "referer": "https://www.88-hd.com/?r=live_tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+          "info": "server 88-hd",
+          "playInNatPlayer": true,
+          "desktop": true
+        },
+        {
+          "name": "truesports 3 สำรอง",
+          "image": "https://dookeela4.live/uploads/1664802480.png",
+          "url": "https://dookeela4.live/live-tv/tsp3",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truesports 3 สำรอง",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport3.jpg",
+          "url": "https://www.88-hd.com/?r=tv_view&id=34",
+          "referer": "https://www.88-hd.com/?r=live_tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+          "info": "server 88-hd",
+          "playInNatPlayer": true,
+          "desktop": true
+        },
+        {
+          "name": "truesports 4 สำรอง",
+          "image": "https://dookeela4.live/uploads/1717396131.png",
+          "url": "https://dookeela4.live/live-tv/tsp4",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truesports 4 สำรอง",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport4.jpg",
+          "url": "https://www.88-hd.com/?r=tv_view&id=35",
+          "referer": "https://www.88-hd.com/?r=live_tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+          "info": "server 88-hd",
+          "playInNatPlayer": true,
+          "desktop": true
+        },
+        {
+          "name": "truesports 5 สำรอง",
+          "image": "https://dookeela4.live/uploads/1664847910.png",
+          "url": "https://dookeela4.live/live-tv/tsp5",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truesports 5 สำรอง",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport5.jpg",
+          "url": "https://www.88-hd.com/?r=tv_view&id=36",
+          "referer": "https://www.88-hd.com/?r=live_tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+          "info": "server 88-hd",
+          "playInNatPlayer": true,
+          "desktop": true
+        },
+        {
+          "name": "truesports 7 สำรอง",
+          "image": "https://dookeela4.live/uploads/1664847921.png",
+          "url": "https://dookeela4.live/live-tv/tsp7",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truesports 7 สำรอง",
+          "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport7.jpg",
+          "url": "https://www.88-hd.com/?r=tv_view&id=38",
+          "referer": "https://www.88-hd.com/?r=live_tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+          "info": "server 88-hd",
+          "playInNatPlayer": true,
+          "desktop": true
+        }
+      ]
+    },
+    {
+      "name": "BEIN SPORT [TH]",
+      "image": "xxx",
+      "author": "xxx",
+      "stations": [
+        {
+          "name": "truebein1",
+          "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport1.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truebein1 สำรอง",
+          "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",
+          "url": "https://dookeela4.live/live-tv/bein1",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+},
+        {
+"name": "truebein1 สำรอง",
+          "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",
+          "url": "https://www.88-hd.com/?r=tv_view&id=18",
+          "referer": "https://www.88-hd.com/?r=live_tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+          "info": "server 88-hd",
+          "playInNatPlayer": true,
+          "desktop": true
+        },
+        {
+          "name": "truebein2",
+          "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport2.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truebein2 สำรอง",
+          "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",
+          "url": "https://dookeela4.live/live-tv/bein2",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+},
+        {
+"name": "truebein2 สำรอง",
+          "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",
+          "url": "https://www.88-hd.com/?r=tv_view&id=19",
+          "referer": "https://www.88-hd.com/?r=live_tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+          "info": "server 88-hd",
+          "playInNatPlayer": true,
+          "desktop": true
+        },
+        {
+          "name": "truebein3",
+          "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport3.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truebein3 สำรอง",
+          "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",
+          "url": "https://dookeela4.live/live-tv/bein3",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+},
+        {
+"name": "truebein3 สำรอง",
+          "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",
+          "url": "https://www.88-hd.com/?r=tv_view&id=20",
+          "referer": "https://www.88-hd.com/?r=live_tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+          "info": "server 88-hd",
+          "playInNatPlayer": true,
+          "desktop": true
+        }
+      ]
+    },
+    {
+      "name": "HUB",
+      "image": "xxx",
+      "author": "xxx",
+      "stations": [
+        {
+          "name": "hubpremier UHD2",
+          "image": "https://i.postimg.cc/x12jpfVF/Hub-Premier-2-UHD.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier%20UHD2",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "HUB PREMIER 1 ᵁᴴᴰ",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier1",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "HUB PREMIER 2 ᵁᴴᴰ",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier2",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "HUB PREMIER 3 ᵁᴴᴰ",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier3",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "HUB PREMIER 4 ᵁᴴᴰ",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier4",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "HUB PREMIER 5 ᵁᴴᴰ",
+          "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624630%27&EntityType=%27Item%27&EntityId=%27572420%27&Width=1920&Height=1080",
+          "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier5",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "HUB PREMIER 6 ᵁᴴᴰ",
+          "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624633%27&EntityType=%27Item%27&EntityId=%27572421%27&Width=1920&Height=1080",
+          "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier6",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "HUB PREMIER 7 ᵁᴴᴰ",
+          "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624605%27&EntityType=%27Item%27&EntityId=%27572417%27&Width=1920&Height=1080",
+          "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier7",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "HUB PREMIER 8 ᵁᴴᴰ",
+          "image": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624577%27&EntityType=%27Item%27&EntityId=%27572414%27&Width=1920&Height=1080",
+          "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubpremier8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "hubsport1",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports1",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "hubsport2",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports2",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "hubsport3",
+          "image": "https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/HUB/refs/heads/main/hubsports3",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        }
+      ]
+    },
+    {
+      "name": "TRUE PREMIET FOOTBALL",
+      "image": "xxx",
+      "author": "xxx",
+      "stations": [
+        {
+          "name": "True Premier Football 3",
+          "image": "https://dookeela4.live/uploads/1664499681.png",
+          "url": "http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776163&extension=m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "True Premier Football 3 สำรอง",
+          "image": "https://dookeela4.live/uploads/1664499681.png",
+          "url": "https://dookeela4.live/live-tv/tpf3",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "True Premier Football 4",
+          "image": "https://dookeela4.live/uploads/1664499692.png",
+          "url": "https://dookeela4.live/live-tv/tpf4",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        }
+      ]
+    },
+    {
+      "name": "SPOTV",
+      "image": "xxx",
+      "author": "xxx",
+      "stations": [
+        {
+          "name": "SPOTV1",
+          "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truespotv1.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "SPOTV1 สำรอง",
+          "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+          "url": "https://dookeela4.live/live-tv/spotv",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "SPOTV2",
+          "image": "https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truesport2.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "SPOTV2 สำรอง",
+          "image": "https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",
+          "url": "https://dookeela4.live/live-tv/spotv2",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        }
+      ]
+    },
+    {
+      "name": "GOLF NBA TENNIS",
+      "image": "xxx",
+      "author": "รวมยิบย่อย",
+      "stations": [
+        {
+          "name": "truegolf",
+          "image": "https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truegolf.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "truegolf สำรอง",
+          "image": "https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",
+          "url": "https://dookeela4.live/live-tv/golfchannel",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "trueTENNIS",
+          "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truetennis.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "trueTENNIS สำรอง",
+          "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
+          "url": "https://dookeela4.live/live-tv/truetennis",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0",
+          "info": "server dookeela",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "NBA",
+          "image": "https://rentapi.blackboxsys.net/images/png/us-nba.png",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/nba.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        }
+      ]
+    }
+  ]
+}
+
       "referer": "https://www.88-hd.com/?r=live_tv",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
       "info": "server 88-hd",
