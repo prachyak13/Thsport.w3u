@@ -1,7 +1,7 @@
 {
   "name": "SPORT THAI",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGqn7Y1FaM7JcmAobSk-8dLTIsiIoE9xcIOKNjh6ksg&s=10",
-  "author": "update 06/03/26",
+  "author": "update 05/03/26",
   "groups": [
     {
       "name": "MONOMAX",
@@ -160,18 +160,63 @@
       ]
     },
     {
+      "name": "GOLF NBA TENNIS",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/78/8f/ca788fde-67b2-15e1-0a66-5b3cb56bb252/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+  "author": "รวมยิบย่อย",
+  "stations": [
+    {
+      "name": "truegolf",
+      "image": "https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truegolf.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "truegolf สำรอง",
+      "image": "https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",
+      "url": "https://dookeela4.live/live-tv/golfchannel",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "trueTENNIS",
+      "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truetennis.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "trueTENNIS สำรอง",
+      "image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
+      "url": "https://dookeela4.live/live-tv/truetennis",
+      "referer": "https://dookeela4.live/",
+      "userAgent": "Mozilla/5.0",
+      "info": "server dookeela",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "NBA",
+      "image": "https://rentapi.blackboxsys.net/images/png/us-nba.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/nba.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
+    },
+    {
       "name": "ANIMAL SHOW [TH]",
       "image": "https://i.ytimg.com/vi/gRaZAbtHIbw/maxresdefault.jpg",
-      "author": "xxx",
-      "stations": [
-        {
-          "name": "ANIMAL SHOW",
-          "image": "https://i.ytimg.com/vi/gRaZAbtHIbw/maxresdefault.jpg",
-          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/ANIMALSHOW",
-          "referer": "https://github.com/",
-          "userAgent": "Mozilla/5.0",
-          "info": "Server github",
-          "playInNatPlayer": true
+      "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/ANIMALSHOW",
+      "referer": "https://github.com/",
+      "userAgent": "Mozilla/5.0",
+      "info": "Server github",
+      "playInNatPlayer": true
         }
       ]
     }
