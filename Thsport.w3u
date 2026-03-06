@@ -351,7 +351,7 @@
         {
           "name": "truebein3",
           "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",
-          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truesport3.m3u8",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truebeinsport3.m3u8"",
           "referer": "https://github.com/",
           "userAgent": "Mozilla/5.0",
           "info": "Server github",
