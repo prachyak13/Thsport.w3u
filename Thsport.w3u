@@ -166,7 +166,7 @@
         {
           "name": "truesports 1",
           "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport01.jpg",
-          "url": "https://github.com/prachyak13/Thsport/blob/main/truesport1.m3u8",
+          "url": "https://raw.githubusercontent.com/prachyak13/Thsport/refs/heads/main/truesport1.m3u8",
           "referer": "https://github.com/",
           "userAgent": "Mozilla/5.0",
           "info": "Server github",
@@ -194,7 +194,7 @@
         {
           "name": "truesports 2",
           "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport2.jpg",
-          "url": "https://github.com/prachyak13/Thsport/blob/main/truesport2.m3u8",
+          "url": "https://github.com/prachyak13/Thsport/main/truesport2.m3u8",
           "referer": "https://github.com/",
           "userAgent": "Mozilla/5.0",
           "info": "Server github",
@@ -222,7 +222,7 @@
         {
           "name": "truesports 3",
           "image": "https://www.imgx01.xyz/assets/img/ch_logo/TrueSport3.jpg",
-          "url": "https://github.com/prachyak13/Thsport/blob/main/truesport3.m3u8",
+          "url": "https://github.com/prachyak13/Thsport/main/truesport3.m3u8",
           "referer": "https://github.com/",
           "userAgent": "Mozilla/5.0",
           "info": "Server github",
