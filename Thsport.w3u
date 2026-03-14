@@ -47,12 +47,11 @@
         {
           "name": "88-hd test3",
           "image": "xxx",
-          "url": "https://www.88-hd.com/?r=tv_view&id=20",
-          "referer": "https://www.88-hd.com/?r=live_tv",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-          "info": "server 88-hd",
-          "playInNatPlayer": true,
-          "desktop": true
+          "url": "http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130705.ts",
+          referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
         },
         {
           "name": "88-hd test4",
